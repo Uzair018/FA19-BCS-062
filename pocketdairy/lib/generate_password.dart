@@ -25,7 +25,7 @@ class _GeneratePasswordState extends State<GeneratePassword> {
       Scaffold(
         appBar: AppBar(
           automaticallyImplyLeading: false,
-          backgroundColor: Colors.cyan,
+          backgroundColor: Colors.teal,
           title: Text('Flutter Generate Random Password'),
         ),
         body: Container(
@@ -48,7 +48,7 @@ class _GeneratePasswordState extends State<GeneratePassword> {
                 enableInteractiveSelection: false,
                 decoration: InputDecoration(
                     focusedBorder: OutlineInputBorder(
-                      borderSide: BorderSide(color: Colors.cyan,),
+                      borderSide: BorderSide(color: Colors.teal,),
                     ),
                     enabledBorder: OutlineInputBorder(
                       borderSide: BorderSide(color: Colors.cyan),
