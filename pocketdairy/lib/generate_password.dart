@@ -85,7 +85,7 @@ class _GeneratePasswordState extends State<GeneratePassword> {
           final password = generatePassword();
           _controller.text = password;
         },
-        child: Text("Password Generate",style: TextStyle(color: Colors.white),)
+        child: Text("Password Generate",style: TextStyle(color: Colors.orange),)
     );
   }
 

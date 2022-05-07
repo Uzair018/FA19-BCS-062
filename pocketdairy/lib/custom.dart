@@ -6,9 +6,9 @@ String generatePassword({
   bool isNumber = true,
   bool isSpecial = true,
 }) {
-  final length = 20;
-  final letterLowerCase = "abcdefghijklmnopqrstuvwxyz";
-  final letterUpperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+  final length = 4;
+  final letterLowerCase = "abcd";
+  final letterUpperCase = "ABCD";
   final number = '0123456789';
   final special = '@#%^*>\$@?/[]=+';
 
