@@ -52,7 +52,7 @@ class VideoState extends State<Splash> with SingleTickerProviderStateMixin{
   Widget build(BuildContext context) {
 
     return Scaffold(
-      backgroundColor: Colors.white,
+      backgroundColor: Colors.cyanAccent,
       body: Stack(
         fit: StackFit.expand,
         children: <Widget>[
