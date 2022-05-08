@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/gussinggame/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/gussinggame/build" />
+      <excludeFolder url="file://$MODULE_DIR$/gussinggame/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi_calculator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi_calculator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi_calculator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/quizapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quizapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quizapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pocketdairy/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pocketdairy/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pocketdairy/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/counterapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/counterapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/counterapp/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

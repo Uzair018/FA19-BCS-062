@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28539007311",
+    "project_id": "pocketdairy-8d55b",
+    "storage_bucket": "pocketdairy-8d55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28539007311:android:4107ea7b7914d49f3e953a",
+        "android_client_info": {
+          "package_name": "com.example.pocketdairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28539007311-akndn0oj9g695qqinjm44efo869cnrdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-M8BZ881Zggg6V_8Nk0SDsSdZSg9jdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28539007311-akndn0oj9g695qqinjm44efo869cnrdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
