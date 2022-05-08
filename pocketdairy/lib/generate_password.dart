@@ -26,7 +26,7 @@ class _GeneratePasswordState extends State<GeneratePassword> {
         appBar: AppBar(
           automaticallyImplyLeading: false,
           backgroundColor: Colors.teal,
-          title: Text('Flutter Generate Random Password'),
+          title:  Text('Flutter Generate Random Password'),
         ),
         body: Container(
           padding: EdgeInsets.all(32),
