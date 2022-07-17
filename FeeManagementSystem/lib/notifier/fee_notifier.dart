@@ -19,8 +19,6 @@ class FeeNotifier with ChangeNotifier {
   set currentFee(Fee fee) {
     _currentFee = fee;
     notifyListeners();
-  }
-
   addFee(Fee fee) {
     _feeList.insert(0, fee);
     notifyListeners();

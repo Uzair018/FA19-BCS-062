@@ -12,7 +12,10 @@ class Teacher{
   Timestamp createdAt;
   Timestamp updatedAt;
 
-  Teacher();
+  Teacher() {
+    // TODO: implement
+    throw UnimplementedError();
+  }
 
  Teacher.fromMap(Map<String, dynamic> data) {
     id = data['id'];
